@@ -1,2 +1,0 @@
-\cast.exe run -r https://eth-mainnet.g.alchemy.com/v2/zMFtr0bli3Pe2CEXbzbmgwk3UHEWYMO5 0xc3e09a30514f5e82ea887cc9a382bdd16d16cf71c22daf06019fd276968ed567
-./cast run -r https://ethereum-mainnet.g.allthatnode.com/full/evm/6bf84ef9ba73453ba690872ecbd54feb 0xc3e09a30514f5e82ea887cc9a382bdd16d16cf71c22daf06019fd276968ed567
