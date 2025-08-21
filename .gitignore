@@ -1,2 +1,5 @@
 test.md
 .DS_Store
+env.sh
+.vscode
+settings.json
